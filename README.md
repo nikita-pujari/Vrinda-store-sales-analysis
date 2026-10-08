@@ -33,6 +33,3 @@ This project uses Excel to analyze Vrinda Stores sales data. The goal is to unde
 
 Focus on the strongest customer segment, particularly women aged 30–49 years. Strengthen sales through high‑performing states and channels such, as Amazon, Flipkart and Myntra.
 
-## Project File
-
-[Download Excel Analysis](./Vrinda%20Store%20Data%20Analysis.xlsx)
